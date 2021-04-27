@@ -1,2 +1,4 @@
 Chapter 1 - The Beginning
 It was the best of times, it was the worst of times
+This is fromm the GitHub section of the Intro to Cloud Development course
+Working in the Theia environment.
